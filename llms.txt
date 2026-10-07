@@ -1,0 +1,89 @@
+# 그루터기건축사사무소
+
+> 그루터기건축사사무소는 실시설계를 중심으로 BIM·계획설계·감리 업무를 수행합니다. 프로젝트 포트폴리오와 협업 서비스, 회사 소식을 확인하고 협업을 문의해 보세요.
+
+공식 웹사이트: https://grooarchi.com/
+
+## 회사 정보
+
+- 법인명: 주식회사 그루터기건축사사무소
+- 영문 표기: GROO.INC ARCHITECTS & ENGINEERING
+- 대표: 최은중, 이현주
+- 설립일: 2015년 3월 16일
+- 주소: 서울특별시 송파구 법원로11길 7, 문정현대지식산업센터 C동 401호
+- 대표전화: 02-516-9969
+- 이메일: groo@grooarchi.com
+
+## 서비스
+
+- 실시설계: 설계 의도와 인허가 조건을 반영한 실시설계 도서 작성 및 시공 단계 대응
+- BIM: BIM 기반 설계·전환, 간섭 검토와 설계 정보 정합 검토
+- 계획설계: 대지와 프로그램을 분석하는 계획설계
+- 감리: 건축공사 및 해체공사 감리, 현장 검토와 시공 단계 지원
+
+## 공식 안내
+
+- [회사소개](https://grooarchi.com/#company)
+- [회사개요](https://grooarchi.com/#history)
+- [협업업무 및 서비스](https://grooarchi.com/#collaboration)
+- [프로젝트](https://grooarchi.com/#projects-execution)
+- [소식](https://grooarchi.com/#news)
+- [채용](https://grooarchi.com/#recruit)
+- [협업 문의](https://grooarchi.com/#contact)
+
+## 공개 포트폴리오
+
+연도는 홈페이지의 프로젝트 연도이며 준공연도와 다를 수 있습니다. 설계사는 홈페이지의 설계사 표기를 따릅니다.
+아래 업무는 그루터기의 참여 업무입니다. 협업 프로젝트를 단독 설계 실적으로 해석하지 않습니다.
+
+| 연도 | 프로젝트명 | 분류 | 그루터기 참여 업무 | 설계사 |
+| --- | --- | --- | --- | --- |
+| 2026 | [삼성동 37-16(모텔) 해체공사 책임감리 용역](https://grooarchi.com/#project-042) | 일반건물 | 감리 |  |
+| 2025 | [여수 덕충주공아파트 재건축](https://grooarchi.com/#project-023) | 공동주택 | 실시설계 | 정림건축 |
+| 2025 | [남해 서대리 레지던스](https://grooarchi.com/#project-024) | 숙박시설 | 실시설계 | 정림건축 |
+| 2025 | [마포로1구역 58-2 주상복합](https://grooarchi.com/#project-025) | 주상복합 | 실시설계 | 정림건축 |
+| 2025 | [용마터널 인근 도심 공공주택 복합사업](https://grooarchi.com/#project-026) | 공동주택 | 실시설계 | 정림건축 |
+| 2025 | [FSAA JEJU 국제학교](https://grooarchi.com/#project-040) | 일반건물 | 실시설계 | 삼우CM |
+| 2025 | [고성 송지호 관광지 휴양시설](https://grooarchi.com/#project-041) | 일반건물 | 실시설계 | 삼우CM |
+| 2024 | [마을정비형 공공주택사업 도시·건축통합기술용역](https://grooarchi.com/#project-021) | 공동주택 | 실시설계 | 정림건축 |
+| 2024 | [SK하이닉스 용인 반도체 클러스터 상생시설](https://grooarchi.com/#project-022) | 일반건물 | 실시설계 | 정림건축 |
+| 2024 | [혼다 교육연구시설 증축공사](https://grooarchi.com/#project-047) | 일반건물 | 감리 |  |
+| 2023 | [강일동 667-36 다가구주택 신축공사](https://grooarchi.com/#project-043) | 일반건물 | 감리 |  |
+| 2022 | [경기도 이천 송정동 공동주택](https://grooarchi.com/#project-018) | 공동주택 | 실시설계 | 정림건축 |
+| 2022 | [정읍 푸르지오 더 퍼스트](https://grooarchi.com/#project-019) | 공동주택 | 실시설계 | 정림건축 |
+| 2022 | [운정중앙역 우미 린 더 센텀](https://grooarchi.com/#project-020) | 공동주택 | 실시설계 | 정림건축 |
+| 2022 | [가재지구 도시개발사업 공동 2BL 공동주택](https://grooarchi.com/#project-029) | 공동주택 | 실시설계 | 건축사사무소 미작 |
+| 2022 | [광주 에너지밸리 D2블록 중흥S-클래스 아파트](https://grooarchi.com/#project-030) | 공동주택 | 실시설계 | 정림건축 |
+| 2022 | [노량진 역세권 청년주택](https://grooarchi.com/#project-031) | 공동주택 | 실시설계 | 정림건축 |
+| 2022 | [양주역세권지구 공동1블록 중흥S-클래스 아파트](https://grooarchi.com/#project-032) | 공동주택 | 실시설계 | 정림건축 |
+| 2022 | [양주역세권지구 공동2블록 중흥S-클래스 아파트](https://grooarchi.com/#project-033) | 공동주택 | 실시설계 | 정림건축 |
+| 2022 | [시흥시 은행2지구 C-1블럭 공동주택](https://grooarchi.com/#project-034) | 공동주택 | 실시설계 | 하람건축 |
+| 2022 | [시흥시 은행2지구 C-2블럭 공동주택](https://grooarchi.com/#project-035) | 공동주택 | 실시설계 | 하람건축 |
+| 2022 | [울산광역시 남구 삼산동 주상복합](https://grooarchi.com/#project-037) | 주상복합 | 실시설계 | 정림건축 |
+| 2022 | [성수동2가 지식산업센터](https://grooarchi.com/#project-039) | 일반건물 | 실시설계 | 정림건축 |
+| 2021 | [속초 청호동 주상복합](https://grooarchi.com/#project-028) | 주상복합 | 실시설계 | GLM |
+| 2021 | [평창군 하리 공동주택](https://grooarchi.com/#project-036) | 공동주택 | 실시설계 | 하람건축 |
+| 2021 | [울산시 남구 신정동 주상복합](https://grooarchi.com/#project-038) | 주상복합 | 실시설계 | 정림건축 |
+| 2021 | [송파구 삼전동 104-11번지 근생 및 다세대주택 신축공사](https://grooarchi.com/#project-044) | 공동주택 | 감리 |  |
+| 2020 | [상봉 동양엔파트 청년안심주택](https://grooarchi.com/#project-013) | 공동주택 | 실시설계 | 정림건축 |
+| 2020 | [시흥 웨이브파크 푸르지오시티](https://grooarchi.com/#project-014) | 숙박시설 | 실시설계 | 정림건축 |
+| 2020 | [여주 현암동 오피스텔 2차](https://grooarchi.com/#project-015) | 오피스텔 | 실시설계 | 정림건축 |
+| 2020 | [완주삼봉 중흥 S클래스 에듀파크](https://grooarchi.com/#project-016) | 공동주택 | 실시설계 | 정림건축 |
+| 2020 | [이천 자이 더 파크](https://grooarchi.com/#project-017) | 공동주택 | 실시설계 | 정림건축 |
+| 2020 | [양재동 도시형생활주택 신축공사](https://grooarchi.com/#project-045) | 공동주택 | 감리 |  |
+| 2019 | [영종하늘도시 광영스너그 에어시티](https://grooarchi.com/#project-011) | 오피스텔 | 실시설계 | 정림건축 |
+| 2019 | [파라스파라 서울](https://grooarchi.com/#project-012) | 숙박시설 | 실시설계 | 정림건축 |
+| 2018 | [시티프라디움 더 강남](https://grooarchi.com/#project-010) | 공동주택 | 실시설계 | 정림건축 |
+| 2018 | [(주)정원철강 안성공장 신축공사](https://grooarchi.com/#project-046) | 일반건물 | 감리 |  |
+| 2017 | [DMC한강숲 중흥 S클래스](https://grooarchi.com/#project-009) | 공동주택 | 실시설계 | 정림건축 |
+| 2017 | [구리갈매 S1-3BL 오피스텔](https://grooarchi.com/#project-027) | 오피스텔 | 실시설계 | ITM |
+| 2016 | [고덕동 주거복합](https://grooarchi.com/#project-004) | 오피스텔 | 실시설계 | 정림건축 |
+| 2016 | [속초 KCC 스위첸](https://grooarchi.com/#project-005) | 공동주택 | 실시설계 | 정림건축 |
+| 2016 | [여주 현암동 오피스텔 1차](https://grooarchi.com/#project-006) | 오피스텔 | 실시설계 | 정림건축 |
+| 2016 | [영종하늘도시 KCC스위첸](https://grooarchi.com/#project-007) | 공동주택 | 실시설계 | 정림건축 |
+| 2016 | [송산그린시티 요진 와이시티](https://grooarchi.com/#project-008) | 공동주택 | 실시설계 | 정림건축 |
+| 2015 | [전주 에코시티 KCC스위첸](https://grooarchi.com/#project-001) | 공동주택 | 실시설계 | 정림건축 |
+| 2015 | [송산 금강펜테리움 센트럴파크 아파트](https://grooarchi.com/#project-002) | 공동주택 | 실시설계 | 정림건축 |
+| 2015 | [부산 연산동 SK 뷰](https://grooarchi.com/#project-003) | 주상복합 | 실시설계 | 정림건축 |
+
+이 파일은 홈페이지의 회사 및 프로젝트 정보를 요약합니다. 실제 일정과 업무 범위는 문의 후 확인해 주세요.
